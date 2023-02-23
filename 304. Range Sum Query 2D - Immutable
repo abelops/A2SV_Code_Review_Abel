@@ -22,7 +22,7 @@ class NumMatrix:
         return ans
         
         
-
+# Some change
 
 # Your NumMatrix object will be instantiated and called as such:
 # obj = NumMatrix(matrix)
